@@ -2,6 +2,9 @@
 
 <a href="https://app.daily.dev/mrvincell"><img src="https://api.daily.dev/devcards/v2/0AIBUfx28MljkXLQsqnje.png?r=ojs&type=default" width="356" alt="Mr_Vincell's Dev Card"/></a>
 
+🌟 Check out my project [Glowing in the dark](https://github.com/Maelis-Rakowski/Glowing-in-the-dark), a luminous exploration of the intersection between technology and art. Dive into a world where light meets darkness and innovation meets imagination. 🌟
+
+
 <!--
 **vincent-bernardon/vincent-bernardon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
