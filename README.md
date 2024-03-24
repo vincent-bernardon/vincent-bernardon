@@ -8,6 +8,7 @@ Project completed during my Computer Science degree :
 - [Boggle], Project under development.
 - [Node.js Project](https://github.com/vincent-bernardon/projet_web), A web game developed with Node.js to learn this language.
 
+
 Some projects that I completed during my Computer Science DUT (University Technology Diploma):
 - [Ricochet-Robot](https://github.com/vincent-bernardon/Ricochet-Robot), Project realized in JAVA and JAVAFX, translating the board game Ricochet-Robot into software, complete with an artificial intelligence that finds the shortest path. This project enhanced my understanding of JAVA and JAVAFX, and also provided me with the opportunity to learn and apply design patterns.
 - [RealWater2](https://github.com/vincent-bernardon/RealWater2), This project has been developed in PHP to create an e-commerce site, which allowed me to learn PHP.
