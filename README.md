@@ -4,6 +4,8 @@
 
 🌟 Check out our project [Glowing in the dark](https://github.com/Maelis-Rakowski/Glowing-in-the-dark), a luminous exploration of the intersection between technology and art. Dive into a world where light meets darkness and innovation meets imagination. 🌟
 
+Some projects that I completed during my Computer Science DUT (University Technology Diploma):
+[Ricochet-Robot](https://github.com/vincent-bernardon/Ricochet-Robot), Project realized in JAVA and JAVAFX translating the board game Ricochet-Robot into software, with an artificial intelligence that finds the shortest path.
 
 <!--
 **vincent-bernardon/vincent-bernardon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
