@@ -6,7 +6,7 @@
   
 Project completed during my Computer Science degree : 
 - [Boggle], Project under development.
-- [Node.js Project](https://github.com/vincent-bernardon/projet_web), A web game developed with Node.js to learn this language.
+- [Node.js Project](https://github.com/vincent-bernardon/projet_web), A web game developed with Node.js to learn it.
   
   
 Some projects that I completed during my Computer Science DUT (University Technology Diploma):
