@@ -14,7 +14,7 @@ Some projects that I completed during my Computer Science DUT (University Techno
 - [RealWater2](https://github.com/vincent-bernardon/RealWater2), This project has been developed in PHP to create an e-commerce site, which allowed me to learn PHP.
 - [PALLL](https://webinfo.iutmontp.univ-montp2.fr/~lemeyeurr/wordpress/), A project carried out with Wordpress that allowed associations to create their own website. This project allowed me to learn Agile methodologies.
 - [Bang!IHM](https://github.com/IUTInfoMontp-M2105/projetihm-BernardonBravoBurnichonGregoire), Development of the Bang digital game interface in JAVAfx, which also allowed me to learn JAVAfx.
-- [Bang!](https://github.com/IUTInfoMontp-M2103/projetbang-bernardonburnichonbravogregoire), Digital version of the Bang board game in JAVA. This project allowed me to gain valuable experience in JAVA programming. Unfortunately, the source code is no longer accessible because the GitHub group was deleted by the organization.
+- [Bang!](https://github.com/IUTInfoMontp-M2103/projetbang-bernardonburnichonbravogregoire), Digital version of the Bang board game in JAVA. This project allowed me to gain valuable experience in object-oriented programming with JAVA. Unfortunately, the source code is no longer accessible because the GitHub group was deleted by the organization.
 
 <!--
 **vincent-bernardon/vincent-bernardon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
