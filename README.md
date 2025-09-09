@@ -4,8 +4,65 @@
 
 🌟 Check out our project [Glowing in the dark](https://rakowskimaelis.itch.io/glowing-in-the-dark), a luminous exploration of the intersection between technology and art. Dive into a world where light meets darkness and innovation meets imagination. (Created during the 6th edition of the Code Game Jam, winner of the functionality prize.)🌟
 
+---
+
 ## 📚 Projects completed during my Master IMAGINE (Specialization in Computer Graphics, Vision and Interaction)
 
+- [**MinerFabriquer**](https://github.com/Kuuro-neko/MinerFabriquer) – **C++/OpenGL** voxel engine inspired by Minecraft, featuring procedural world generation (biomes, caves, ores), real‑time multithreaded chunk loading, **PBR rendering**, ambient occlusion, and optimized mesh building. Includes survival/creative/spectator modes, block placement/destruction, inventory HUD, TNT and Ender Pearl projectiles, biome‑based zombie NPCs with animations, and a binary save system with automatic backups.
+
+- [**Procedural Climbing Plant Modeling**](https://github.com/Akkuun/TER-Procedural-Climbing-Plant-Modeling) – **JavaScript/TypeScript + Three.js** interactive simulation of procedurally generated climbing plants, inspired by *Interactive Modeling and Authoring of Climbing Plants* (Hädrich et al.). Features surface adaptation, phototropism, seed planting, customizable growth parameters, octree‑based acceleration for surface attachment, and instanced rendering for performance.
+
+- [**Deferred Raytracer**](https://github.com/vincent-bernardon/HAI719I-Raytracer) – **C++/OpenGL** rendering engine with a deferred raytracing pipeline. Real‑time scene display, on‑demand raytraced image generation, **Phong shading**, hard/soft shadows, mirror reflections, glass refraction with Fresnel effects, texture & normal mapping. Optimized with KD‑Tree acceleration and multithreading.
+
+- [**EcoPlant**](https://github.com/DrHurel/EcoPlant) – **Kotlin/Android** app for plant identification and parcel management. Take or upload photos (leaf, flower, fruit, bark), identify via **Pl@ntNet API**, link to parcels (public/private, GPS coords), view plant history, and map joined parcels. Built with a custom Angular‑inspired micro‑framework (annotations for services/events/pages), XML‑based UI, and **Firebase** backend.
+
+- [**Hex Exploration**](https://github.com/Kuuro-neko/Hex-exploration) – **JavaScript + Three.js** 3D version of the board game Hex with player‑vs‑AI and AI‑vs‑AI modes. The AI uses a **Monte Carlo simulation** to evaluate moves via repeated random playouts, selecting the best action based on win‑rate. Includes interactive 3D board rendering, camera controls, and full game state management.
+
+- [**Machine Learning Project**](https://github.com/vincent-bernardon/M1_IMAGINE_ML_Project) – **Python/scikit‑learn** group project covering data preprocessing, exploratory analysis, model training, and evaluation. Compared multiple algorithms, tuned hyperparameters, and assessed performance on the chosen dataset.
+
+- [**Universal 4K Image Compressor**](https://github.com/vincent-bernardon/projet-compression-4K) – **C++/OpenCV** tool exploring multiple compression techniques for 4K images. Implemented **SLIC** superpixel segmentation and **SDGT** graph‑based compression with CIELAB color space, CIEDE2000 distance, Graph Fourier Transform, and DCT‑based quantisation. Qt GUI for algorithm selection, parameter tuning, and preview. Benchmarked on 300 images across various content types.
+
+- [**Candy Rush**](https://github.com/Akkuun/POA-SMA-TeacherProject) – **JavaScript + PIXI.js** agent‑oriented game where “students” collect candies while avoiding a “teacher”. Multiple AI strategies implemented and compared for effectiveness.
+
+- [**Wish Tank**](https://github.com/Akkuun/POA-SMA-Tank-Project) – **JavaScript + PIXI.js** competitive game inspired by Wii Tank, developed to design and program autonomous agents. Includes custom physics and full game logic.
+
+---
+
+## 🎓 Projects completed during my Computer Science degree
+
+- [**Bouggr**](https://github.com/Akkuun/TER_L3_2023_Boggle_Mobile) – **Flutter/Dart** cross‑platform mobile app inspired by the classic Boggle board game. Developed as part of a team where I also served as **Scrum Master**. Learned and applied Flutter from scratch, implemented game logic and UI, and optimised performance for mobile devices to minimise battery consumption.
+
+- [**Relational Database Project**](https://github.com/DrHurel/projetBDD) – **PostgreSQL** academic project applying relational database normalisation (1NF, 2NF, 3NF, BCNF) to design an optimised schema. Delivered SQL scripts for schema creation/deletion, data insertion, queries, triggers, and stored functions.
+
+- [**Node.js Project**](https://github.com/vincent-bernardon/projet_web) – **JavaScript/Node.js** web‑based game developed to learn server‑side JavaScript fundamentals, including routing, event handling, and basic game logic.
+
+---
+
+## 💻 Projects completed during my Computer Science DUT (University Technology Diploma)
+
+- [**Ricochet‑Robot**](https://github.com/vincent-bernardon/Ricochet-Robot) – **Java/JavaFX** adaptation of the Ricochet‑Robot board game, featuring an AI that computes the shortest path to the goal. Strengthened my Java/JavaFX skills and introduced me to software design patterns.
+
+- [**RealWater2**](https://github.com/vincent-bernardon/RealWater2) – **PHP/MySQL** e‑commerce website project. Learned PHP fundamentals, database interaction, and basic web security practices.
+
+- [**PALLL**](https://webinfo.iutmontp.univ-montp2.fr/~lemeyeurr/wordpress/) – **WordPress** platform enabling associations to create and manage their own websites. Applied Agile methodologies for iterative development and client feedback integration.
+
+- [**Bang! IHM**](https://github.com/IUTInfoMontp-M2105/projetihm-BernardonBravoBurnichonGregoire) – **JavaFX** digital interface for the Bang! card game. Focused on UI/UX design, event handling, and interface‑to‑logic integration.
+
+- [**Bang!**](https://github.com/IUTInfoMontp-M2103/projetbang-bernardonburnichonbravogregoire) – **Java** digital version of the Bang! board game. Gained experience in object‑oriented programming and game logic implementation. *(Source code no longer available due to repository deletion by the organisation.)*
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
 - [MinerFabriquer](https://github.com/Kuuro-neko/MinerFabriquer) – Minecraft‑like voxel engine in C++/OpenGL featuring procedural world generation (biomes, caves, ores), real‑time multithreaded chunk loading, PBR rendering, ambient occlusion, and optimized mesh building. Includes survival/creative/spectator modes, block placement/destruction, inventory HUD, TNT and Ender Pearl projectiles, biome‑based zombie NPCs with animations, and a binary save system with automatic backups.
 
 - [Procedural Climbing Plant Modeling](https://github.com/Akkuun/TER-Procedural-Climbing-Plant-Modeling) – Interactive 3D simulation of procedurally generated climbing plants, inspired by *Interactive Modeling and Authoring of Climbing Plants* (Hädrich et al.). Implemented in JavaScript/TypeScript with Three.js, featuring surface adaptation, phototropism, seed planting, and customizable growth parameters via a LightGUI interface. Includes an octree-based acceleration structure for efficient surface attachment and instanced rendering for performance.
@@ -19,7 +76,6 @@
 - [ML Project](https://github.com/vincent-bernardon/M1_IMAGINE_ML_Project) – Group machine learning project exploring data preprocessing, exploratory analysis, model training, and evaluation. Implemented in Python (Jupyter Notebook) with scikit‑learn, pandas, and matplotlib, comparing multiple algorithms and tuning hyperparameters to optimise performance on the chosen dataset.
 
 - [Universal 4K Image Compressor](https://github.com/vincent-bernardon/projet-compression-4K) – Developed in C++ with OpenCV, this project explores and implements multiple image compression techniques for ultra‑high‑definition (4K) images. After reviewing JPEG/DCT, Wavelets, Vector Quantization, Fractal compression, and Superpixel‑Driven Graph Transform (SDGT), two main methods were implemented: **SLIC** for superpixel segmentation, and **SDGT** for graph‑based compression. SLIC achieved a PSNR > 30 dB with ~2.1× compression, while SDGT extended this with CIELAB color space, CIEDE2000 distance, clustering, Graph Fourier Transform, and a DCT‑based quantisation stage. A Qt GUI allows users to choose algorithms, adjust parameters, and preview results. Benchmarks on 300 images compared SLIC and SDGT across content types (drawings, films, CGI, photos), revealing strengths, weaknesses, and trade‑offs in quality, compression ratio, and processing time.
-
 
 - [Candy Rush](https://github.com/Akkuun/POA-SMA-TeacherProject) – An agent‑oriented programming project where both the teacher and the students can be assigned different AI strategies. Students must collect candies without being caught, and the game compares the performance of each strategy. Built in JavaScript with PIXI.js for rendering, with all game logic, physics, and AI behaviours fully implemented by our team. The goal was to explore how multiple agent strategies can be applied to the same scenario and evaluate their effectiveness.
   
@@ -44,7 +100,7 @@ Some projects that I completed during my Computer Science DUT (University Techno
   
 - [Bang!IHM](https://github.com/IUTInfoMontp-M2105/projetihm-BernardonBravoBurnichonGregoire) – Development of the Bang digital game interface in JAVAfx, which also allowed me to learn JAVAfx.
   
-- [Bang!](https://github.com/IUTInfoMontp-M2103/projetbang-bernardonburnichonbravogregoire) – Digital version of the Bang board game in JAVA. This project allowed me to gain valuable experience in object-oriented programming with JAVA. Unfortunately, the source code is no longer accessible because the GitHub group was deleted by the organization.
+- [Bang!](https://github.com/IUTInfoMontp-M2103/projetbang-bernardonburnichonbravogregoire) – Digital version of the Bang board game in JAVA. This project allowed me to gain valuable experience in object-oriented programming with JAVA. Unfortunately, the source code is no longer accessible because the GitHub group was deleted by the organization.-->
 
 <!--
 **vincent-bernardon/vincent-bernardon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
