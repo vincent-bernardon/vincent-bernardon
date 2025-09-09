@@ -5,7 +5,8 @@
 🌟 Check out our project [Glowing in the dark](https://rakowskimaelis.itch.io/glowing-in-the-dark), a luminous exploration of the intersection between technology and art. Dive into a world where light meets darkness and innovation meets imagination. (Created during the 6th edition of the Code Game Jam, winner of the functionality prize.)🌟
   
 Project completed during my Computer Science degree : 
-- [Boggle], Project under development.
+- [Bouggr](https://github.com/Akkuun/TER_L3_2023_Boggle_Mobile), Developed a cross-platform mobile application using Flutter, inspired by the classic Boggle board game. All team members were part of the Development Team, and I also took on the additional role of Scrum Master. I learned and applied Flutter throughout the project, and we optimized the app for mobile devices to minimize battery consumption.
+- [Relational Database Project](https://github.com/DrHurel/projetBDD) , Academic project applying relational database normalization laws (1NF, 2NF, 3NF, BCNF) to design an optimized schema, with SQL scripts for creation/deletion, data insertion, queries, triggers, and functions in PostgreSQL.
 - [Node.js Project](https://github.com/vincent-bernardon/projet_web), A web game developed with Node.js to learn it.
   
   
