@@ -2,6 +2,8 @@
 
 <a href="https://app.daily.dev/mrvincell"><img src="https://api.daily.dev/devcards/v2/0AIBUfx28MljkXLQsqnje.png?r=ojs&type=default" width="356" alt="Mr_Vincell's Dev Card"/></a>
 
+🌐 Discover my [Portfolio](https://vincent-bernardon.github.io/portfolio/) – showcasing my projects, skills, and academic background.  
+
 🌟 Check out our project [Glowing in the dark](https://rakowskimaelis.itch.io/glowing-in-the-dark), a luminous exploration of the intersection between technology and art. Dive into a world where light meets darkness and innovation meets imagination. (Created during the 6th edition of the Code Game Jam, winner of the functionality prize.)🌟
 
 ---
